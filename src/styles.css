@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  /* background-color: red; */
+  margin: auto;
+  height: 80%;
+  width: 600px;
+}
+.boxLabel {
+  font-size: 1.5rem;
+}
+.box {
+  display: block;
+  margin: 0px auto 30px auto;
+  border: 10px solid yellow;
+  border-radius: 10px;
+  padding: 10px 0px;
+}
+.ans {
+  font-size: 1.2rem;
+  color: green;
+}
+#appTitle {
+  font-size: 2rem;
+  border-radius: 10px;
+  background: blue;
+  padding: 10px 0px;
+  color: white;
+}
+#emojiList {
+  font-size: xx-large;
+  padding: 1rem 0.5px;
+  /* to convert mouse cursor into hand  */
+  cursor: pointer;
+}
